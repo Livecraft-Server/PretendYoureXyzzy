@@ -40,7 +40,7 @@
   </developers>
 
   <build>
-    <finalName>ZY</finalName>
+    <finalName>zy</finalName>
     <plugins>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
